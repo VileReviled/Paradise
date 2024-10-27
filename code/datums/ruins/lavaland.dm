@@ -82,6 +82,12 @@
 	description = "If you eat enough, then eating will be all that you do."
 	suffix = "lavaland_surface_gluttony.dmm"
 
+/datum/map_template/ruin/lavaland/sin/lust
+	name = "Ruin of Lust"
+	id = "lust"
+	description = "Indulge. You really, really want to."
+	suffix = "lavaland_surface_lust.dmm"
+
 /datum/map_template/ruin/lavaland/sin/greed
 	name = "Ruin of Greed"
 	id = "greed"
